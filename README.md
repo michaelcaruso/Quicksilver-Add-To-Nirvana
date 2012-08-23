@@ -1,7 +1,5 @@
 QUICKSILVER ADD TO NIRVANA
 ---------------------------
-Created by Michael Caruso, michaelcaruso.net
----------------------------
 
 Add tasks to Nirvana from Quicksilver using the Nirvana Gem.  Here's how you can use this script: 
 
@@ -10,3 +8,5 @@ Add tasks to Nirvana from Quicksilver using the Nirvana Gem.  Here's how you can
 3) Save the Quicksilver Add to Nirvana Applescript into Library -> Application Support -> Quicksilver -> Actions.
 
 Done!  Now type your task into the first Quicksilver step and type Nirvana Add into the action step.
+
+Created by Michael Caruso, michaelcaruso.net
